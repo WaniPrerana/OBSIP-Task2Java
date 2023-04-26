@@ -1,1 +1,1 @@
-This is a Number Guessing Game Created By Mohit Patil
+This is a Number Guessing Game Created By Prerana Wani.
